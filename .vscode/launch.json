@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/raymo/.leetcode/.vscode",
-      "program": "c:/Users/raymo/.leetcode/.vscode/build/Debug/outDebug",
+      "cwd": "c:/Users/raymo/.leetcode/.git",
+      "program": "c:/Users/raymo/.leetcode/.git/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
